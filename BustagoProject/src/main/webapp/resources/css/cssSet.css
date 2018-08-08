@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+body{
+	background: lightPink;
+}
+
+#titleImg{
+	font-weight: bold;
+	border: 10px thin blue;
+	background: purple;
+}
+
+#titleName{
+	border: 5px dotted red;
+}
+
+#titlePrice{
+	font-weight: bold;
+	border: 5px thin blue;
+	background: orange;
+}
+
